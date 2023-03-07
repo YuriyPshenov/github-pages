@@ -3,9 +3,29 @@
 }
 
 .hw {
+    display: flex;
+    margin: 0 70px 0 70px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
 
+.hw div {
+    width: 100%;
+    height: max-content;
 }
 
 .hwTitle {
+    height: 144px;
+    width: 100%;
+    margin: 0 70px 0 70px;
+    justify-content: flex-start;
+    align-items: end;
+    display: flex;
+    font-size: 22px;
+    font-weight: 600;
+}
 
+hr {
+    margin-top: 10px;
 }
