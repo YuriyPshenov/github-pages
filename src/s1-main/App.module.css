@@ -4,7 +4,7 @@
 
 .hw {
     display: flex;
-    margin: 0 70px 0 70px;
+    margin: 32px 70px 0 70px;
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
@@ -18,7 +18,7 @@
 .hwTitle {
     height: 144px;
     width: 100%;
-    margin: 0 70px 0 70px;
+    margin: 0 70px 10px 70px;
     justify-content: flex-start;
     align-items: end;
     display: flex;
